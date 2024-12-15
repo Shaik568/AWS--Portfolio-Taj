@@ -1,9 +1,9 @@
 <h1 align="center">AWS Portfolio Assignemnt</h1>
 <p align="center">
-Tajuddin Shaik [000000], <br>
+Tajuddin Shaik [2315313], <br>
 University Canada West, <br>
 BUSI 653, <br>
-Section 00, <br>
+Section 07, <br>
 Instructor: Prof. Mahmood Mortazavi Dehkordi, <br>
 Due Date: 13th December 2024 <br>
 </p>
