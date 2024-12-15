@@ -10,12 +10,12 @@ Due Date: 13th December 2024 <br>
 
 ___
 # [AWS-1 Project 1](https://shaik568.github.io/AWS-Project-Part-1/)
-# Project Description: Implementation and Analysis of Animal Control Data
-* This project involves setting up a comprehensive data analytics platform using AWS services to the rate of animals found Matched in the year 2023 and add an Average for count of Matched animals feature additionally to support your analysis. 
+# Project Description: Implementation and Analysis of Storefront inventory
+* This project involves setting up a comprehensive data analytics platform using AWS services to the rate of service commerical store in the year 2023 and add an Average for count of service commerical store feature additionally to support your analysis. 
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 1
 * The project aimed to create a robust data management platform that streamlines data sourcing, storage, cleaning, transformation, and analysis. It emphasizes high standards of data security and governance while efficiently handling large datasets. The platform also provides real-time insights through advanced data visualization capabilities.
 ## Project Objective:
-* In this analysis, I have chosen to perform both the descriptive and the predictive analysis using the “Animal Inventory -Lost and Found” dataset from the City of Vancouver which is available in the open data. Self-explanatory In the descriptive analysis, we are working on the percentage of count where from the Total count of Animals noted we obtain Matched count in the year 2024.
+* In this analysis, I have chosen to perform both the descriptive and the predictive analysis using the “Storefront inventory” dataset from the City of Vancouver which is available in the open data. Self-explanatory In the descriptive analysis, we are working on the percentage of count where from the Total count of  noted Stores we obtain Matched as service count in the year 2024.
 * Designing & Implementing DAP.
 ## Methodology:
 * The process of DAP designing and implementation is as follows.
@@ -46,7 +46,7 @@ Tools and Technologies:
 ___
 # [AWS Project 2](https://shaik568.github.io/AWS-Project-Part-2/)
 # Project Description: Data Protection, Governance, and Monitoring
-* This project involves setting up a comprehensive data analytics platform using AWS services to manage  to give a better protection on data monitoring and enriching the City of Vancouver’s animal control data. 
+* This project involves setting up a comprehensive data analytics platform using AWS services to manage  to give a better protection on data monitoring and enriching the City of Vancouver’s Storefront data. 
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 2
 * This project aims to design and implement a Data Analytics Platform (DAP) using Amazon Web Services (AWS) to Data Enriching, Data Protection, Governance, and Monitoring
 ## Project Objective:
